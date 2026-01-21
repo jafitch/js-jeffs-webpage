@@ -8,6 +8,8 @@ mainContentSection.style.color = 'red'
 
 //Exercise 2
 // Select the 'Fork this project on GitHub' and underline it
-const footerP=document.querySelector('footer p')
-footerP.style.textDecoration='underline'
+//const footerP=document.querySelector('footer p')
+//footerP.style.textDecoration='underline'
 
+const footNote=document.querySelector('#footnote')
+footNote.style.textDecoration='underline'
